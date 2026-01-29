@@ -1,0 +1,10 @@
+jan 22:-
+
+Linear Search
+Bubble Sort 
+Binary Search
+
+jan 29:-
+
+insertion sort
+selection sort
